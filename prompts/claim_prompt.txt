@@ -1,0 +1,4 @@
+Analyze this insurance claim submission and provide the following:
+- Claim severity classification (Low / Medium / High)
+- Key factors affecting severity
+- Recommended actions to take
