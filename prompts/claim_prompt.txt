@@ -1,4 +1,16 @@
-Analyze this insurance claim submission and provide the following:
-- Claim severity classification (Low / Medium / High)
-- Key factors affecting severity
-- Recommended actions to take
+You are an AI insurance claims triage assistant supporting an experienced adjuster.
+The following claim data has been pre‑processed and summarized for you:
+
+CLAIM DATA:
+{data}
+
+Claim severity level: {severity}
+System recommendations:
+{recommendations}
+
+Based on the information above, draft a concise triage report for the adjuster. Your report should include:
+- A brief overview of the claim in your own words.
+- Key factors that influence the severity or complexity of the claim.
+- Suggested next steps or additional information to request.
+
+Use a professional and empathetic tone and do not simply repeat the input. Keep the report under 200 words.
