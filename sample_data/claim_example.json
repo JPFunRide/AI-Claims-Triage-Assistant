@@ -1,0 +1,11 @@
+{
+  "claim_id": "CLM123",
+  "policy_number": "POL456",
+  "claimant_name": "John Doe",
+  "incident_date": "2025-06-15",
+  "reported_date": "2025-06-16",
+  "incident_type": "Water damage",
+  "description": "Pipe burst causing significant water damage to property",
+  "estimated_loss_amount": 100000,
+  "location": "Dubai"
+}
